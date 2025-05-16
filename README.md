@@ -4,7 +4,7 @@
 ========
 > Be a silentor, focus on writting your words down.
 
-特点
+特点 
 ----
 * 开箱即用(Fork 本项目立马可以使用)
 * markdown only ,让你专注文章本身
